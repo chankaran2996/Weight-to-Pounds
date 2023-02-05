@@ -7,5 +7,5 @@ const cal = () =>{
     }
     let pound = weigth*2.2046;
     document.getElementById("output").innerHTML="Value of "+weigth+" is "+pound;
-    console.log(weigth,pound)
+    //console.log(weigth,pound)
 }
